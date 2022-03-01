@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <div>Recent news</div>
+        <div>Country:
+            <select id = "select">
+                var_options
+            </select>
+        </div>
+        <input type="button" value="submit" onclick="search()">
+        <div>news_here</div> 
+    </body>
+</html>
+<script>
+function search(){
+    window.location.href = "http://localhost:5000/api/final/" + document.getElementById("select").options[select.selectedIndex].value
+}
+</script>
