@@ -1,2 +1,3 @@
-Baza de date este postata pe heroku deci api-ul poate fi testat si pe alte masini<br>
-Tema este facuta in node.js si din motive intemeiate(erori) nu am putut urca fisierul de configurare node.js. Singurele librarii folosite au fost nodemon si pg(postgres)
+<h1>Baza de date este postata pe heroku deci api-ul poate fi testat si pe alte masini.</h1>
+<h1>Tema este facuta in node.js si din motive intemeiate(erori) nu am putut urca fisierul de configurare node.js. Singurele librarii folosite au fost nodemon si pg(postgres).</h1>
+<h1>In fisierul Backend se afla si un fisier cu colectia postman</h1>
